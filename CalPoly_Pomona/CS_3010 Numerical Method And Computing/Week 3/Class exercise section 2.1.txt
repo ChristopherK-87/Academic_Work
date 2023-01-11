@@ -1,0 +1,16 @@
+1.    Exercises 2.1, Problem 7a: : Solve this using Gaussian elimination
+  3x1 + 4x2 + 3x3 = 1
+  0x1 + 5x2 - x3 = 7
+  6x1 +3x2 +7x3 =15
+
+2. Exercises 2.1, Problem 7e : Solve this using Gaussian elimination
+
+ x1+3x2 + 2x3 + x4 =-2
+
+ 4x1+2x2 + x3 +2x4 = 2
+
+ 2x1+ x2 +2x3 + 3x4 = 1
+
+  x1 +2x2 +4x3+ x4 = -1
+
+ 

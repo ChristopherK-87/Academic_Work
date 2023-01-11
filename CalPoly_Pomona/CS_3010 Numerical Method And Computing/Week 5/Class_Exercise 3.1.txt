@@ -1,0 +1,5 @@
+
+1. Find a root of the following equation in the interval [0,1] by using the bisection method: 9x^4+18x^3+38x^2−57x+14=0. 
+   Please show at least 4 iterations. Make sure to show the table of values as shown in lecture.
+
+2. Repeat the calculation using the False-Position method on the same function and same points as above. Does it converge faster? 

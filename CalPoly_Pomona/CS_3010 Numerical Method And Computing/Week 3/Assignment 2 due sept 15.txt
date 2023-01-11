@@ -1,0 +1,17 @@
+Following Problems are taken from Exercises at the end of Sections 1.3 in the course text Cheney/Kincaid 7th edition from Chapter 1
+
+NOTE: If you are using an older edition, please check with me or any classmate (who is using the current edition) that you are working on the correct problems as problem numbers are different in some chapters in various editions. 
+
+GRADING: The points for each question are listed in brackets. Partial credit will be given for partially correct solutions.
+
+Exercises 1.3, #1 a, b  (3 points each)
+
+Exercise 1.3, #4 c,f,g (3 points each)
+
+Exercise 1.3, #5 c ,f h (2 points each)
+
+Exercise 1.3 #7 b, d (5 points each)
+
+Exercise 1.3 #8 e (5 points)
+
+Exercise 1.3 #9 b, d (1 point each)
