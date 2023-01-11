@@ -1,4 +1,4 @@
-The Language Evaluation Paper explores my experiences writing code for Java and C++ of the topics of writability, readability, and reliability.
+The Language Evaluation Paper explores my experiences writing code for Java and C++ on the topics of writability, readability, and reliability.
 
 The Programming Project folder contains four projects. Three of them is a variation on implementing matrix addition, subtraction, and multiplication in C++ and the fourth is the same but in Java.
 
